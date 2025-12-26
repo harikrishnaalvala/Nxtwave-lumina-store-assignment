@@ -62,6 +62,9 @@ The application fetches product data from a mock API and displays it using clean
 
 ```bash
 git clone https://github.com/harikrishnaalvala/Nxtwave-lumina-store-assignment
+
 cd Nxtwave-lumina-store-assignment
+
 npm install
+
 npm run dev
