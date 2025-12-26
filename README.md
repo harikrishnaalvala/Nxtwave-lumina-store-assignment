@@ -1,21 +1,67 @@
-# React + Vite
+# Lumina Store – Responsive Product Listing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Lumina Store is a responsive, SEO-friendly product listing page built using **React with Vite**.  
+The application fetches product data from a mock API and displays it using clean, minimal, and performant UI principles.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+🔗 https://lumina-tech-assignment.vercel.app/  
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📂 GitHub Repository
+🔗 https://github.com/harikrishnaalvala/Nxtwave-lumina-store-assignment  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# lumina-store
-# lumina-store
-# lumina-store
-# lumina-store
-# lumina-store
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** React.js (Vite)  
+- **Styling:** Pure HTML & CSS  
+- **Rendering:** Client-Side Rendering (CSR)  
+- **API:** https://fakestoreapi.com/products  
+- **Hosting:** Netlify / Vercel
+
+---
+
+## ✨ Features
+
+- Responsive design for mobile, tablet, and desktop
+- Minimal and semantic DOM structure
+- SEO best practices implemented (meta tags, H1/H2, alt attributes)
+- Mock API integration using FakeStore
+- Clean component-based React architecture
+
+---
+
+## 📐 SEO Implementation
+
+- Descriptive page title and meta description  
+- Proper use of H1 and H2 tags  
+- SEO-friendly image names with alt attributes  
+- Semantic HTML elements for better indexing
+
+---
+
+## 📱 Responsive Design
+
+- Mobile-first layout  
+- CSS media queries for tablet and desktop  
+- Flexible grid system for product cards  
+- Adaptive spacing and typography  
+
+---
+
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/harikrishnaalvala/Nxtwave-lumina-store-assignment
+cd Nxtwave-lumina-store-assignment
+npm install
+npm run dev
